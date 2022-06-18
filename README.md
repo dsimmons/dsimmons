@@ -1,7 +1,9 @@
 ```YAML
+$ cat /dev/simmonsd
+
 Name: Dan Simmons
 Location: Denver, CO
-OS: Manjaro Linux i3 Community Edition (kernel 5.15)
+OS: Manjaro Linux i3 Community (5.15)
 WM: i3
 $TERM: alacritty
 $EDITOR: nvim
@@ -11,7 +13,7 @@ Client-side: TypeScript/JavaScript, React, React Native, Redux, Next.js, 11ty
 Server-side: Clojure, Node.js, Golang, Python
 Orchestration: Kubernetes (K8S), Helm, Docker/Podman
 Infrastructure/Services: gRPC, Kafka, Cassandra
-Learning: EVM, Solidity, smart contracts, Rust
+Learning: EVM, Solidity, Truffle, Hardhat, smart contracts, Rust
 Hobbies: skydiving, skiing
 Discord: dan#3706
 ```
