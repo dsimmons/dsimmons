@@ -3,17 +3,18 @@ $ cat /dev/simmonsd
 
 Name: Dan Simmons
 Location: Denver, CO
-OS: Manjaro Linux i3 Community (5.15)
+OS: Manjaro Linux i3 Community (6.1)
 WM: i3
 $TERM: alacritty
 $EDITOR: nvim
 $SHELL: zsh
 Prompt: starship
-Client-side: TypeScript/JavaScript, React, React Native, Redux, Next.js, 11ty
+Web3: Solidity/EVM, Ethers.js, Hardhat
+Client-side: TypeScript/JS, Next.js 13, React, Redux, React Native
 Server-side: Clojure, Node.js, Golang, Python
+Infrastructure/Services: gRPC, Kafka, Postgres, Cassandra
 Orchestration: Kubernetes (K8S), Helm, Docker/Podman
-Infrastructure/Services: gRPC, Kafka, Cassandra
-Learning: EVM, Solidity, Truffle, Hardhat, smart contracts, Rust
+Learning: Rust
 Hobbies: skydiving, skiing
 Discord: dan#3706
 ```
