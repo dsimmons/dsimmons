@@ -2,15 +2,15 @@
 $ cat /dev/simmonsd
 
 Name: Dan Simmons
-Location: Denver, CO
-OS: Manjaro Linux i3 Community (6.1)
-WM: i3
+Location: Longmont, CO
+OS: Fedora Workstation 39 w/ Sway Spin (6.7)
+WM: Sway
 $TERM: alacritty
 $EDITOR: nvim
 $SHELL: zsh
 Prompt: starship
-Web3: Solidity/EVM, Ethers.js, Hardhat
-Client-side: TypeScript/JS, Next.js 13, React, Redux, React Native
+Web3: Wagmi, Viem, Solidity/EVM, Ethers.js, Hardhat
+Client-side: TypeScript, Next.js 14 & React, Redux, React Native
 Server-side: Clojure, Node.js, Golang, Python
 Infrastructure/Services: gRPC, Kafka, Postgres, Cassandra
 Orchestration: Kubernetes (K8S), Helm, Docker/Podman
