@@ -3,20 +3,18 @@ $ cat /dev/simmonsd
 
 Name: Dan Simmons
 Location: Longmont, CO
-OS: Fedora Workstation 39 w/ Sway Spin (6.7)
+OS: Fedora Workstation 40 w/ Sway Spin (6.10)
 WM: Sway
 $TERM: alacritty
 $EDITOR: nvim
 $SHELL: zsh
 Prompt: starship
-Web3: Wagmi, Viem, Solidity/EVM, Ethers.js, Hardhat
-Client-side: TypeScript, Next.js 14 & React, Redux, React Native
-Server-side: Clojure, Node.js, Golang, Python
-Infrastructure/Services: gRPC, Kafka, Postgres, Cassandra
+Web3: wagmi, viem, Solidity/EVM, Ethers.js, Hardhat
+App: Typescript, Next.js 15 & React 19, Drizzle ORM, Tailwind, Zod
+Server: Clojure, Bun/Node.js, Golang, Python
+Infrastructure/Services: Postgres/Supabase, Kafka, Cassandra, gRPC
 Orchestration: Kubernetes (K8S), Helm, Docker/Podman
-Learning: Rust
-Hobbies: skydiving, skiing
-Discord: dan#3706
+Hobbies: homelabbing, skydiving, skiing, touching grass
 ```
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simmonsdan/)
