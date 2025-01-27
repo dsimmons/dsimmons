@@ -3,9 +3,9 @@ $ cat /dev/simmonsd
 
 Name: Dan Simmons
 Location: Longmont, CO
-OS: Fedora Workstation 40 w/ Sway Spin (6.10)
+OS: Fedora Workstation 41 w/ Sway Spin (6.12)
 WM: Sway
-$TERM: alacritty
+$TERM: ghostty
 $EDITOR: nvim
 $SHELL: zsh
 Prompt: starship
