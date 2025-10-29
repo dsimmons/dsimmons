@@ -1,20 +1,20 @@
 ```YAML
-$ cat /dev/simmonsd
+$ cat /dev/simmons
 
 Name: Dan Simmons
-Location: Longmont, CO
-OS: Fedora Workstation 41 w/ Sway Spin (6.12)
+Location: Boulder, Colorado
+OS: Fedora Workstation 43 w/ Sway Spin (kernel 6.18)
 WM: Sway
 $TERM: ghostty
 $EDITOR: nvim
 $SHELL: zsh
 Prompt: starship
-Web3: wagmi, viem, Solidity/EVM, Ethers.js, Hardhat
-App: Typescript, Next.js 15 & React 19, Drizzle ORM, Tailwind, Zod
-Server: Clojure, Bun/Node.js, Golang, Python
+App: Typescript, Next.js 16 & React 19, Tailwind, Drizzle ORM, Better Auth, Zod
+Web3: wagmi, viem, Solidity
+Server: Node.js/Bun, Clojure, Golang, Python
 Infrastructure/Services: Postgres/Supabase, Kafka, Cassandra, gRPC
 Orchestration: Kubernetes (K8S), Helm, Docker/Podman
-Hobbies: homelabbing, skydiving, skiing, touching grass
+Hobbies: homelabbing, points & miles, quantified self, skydiving, skiing, touching grass
 ```
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simmonsdan/)
