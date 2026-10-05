@@ -3,7 +3,7 @@ $ cat /dev/simmons
 
 Name: Dan Simmons
 Location: Boulder, Colorado
-OS: Fedora Workstation 43 w/ Sway Spin (kernel 6.18)
+OS: Fedora Sway Spin
 WM: Sway
 $TERM: ghostty
 $EDITOR: nvim
