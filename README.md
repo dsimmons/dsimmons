@@ -9,11 +9,11 @@ $TERM: ghostty
 $EDITOR: nvim
 $SHELL: zsh
 Prompt: starship
-App: Typescript, Next.js 16 & React 19, Tailwind, Drizzle ORM, Better Auth, Zod
-Web3: wagmi, viem, Solidity
+App: TypeScript, Next.js 16 & React 19, Tailwind, Drizzle ORM, Better Auth, Zod
 Server: Node.js/Bun, Clojure, Golang, Python
-Infrastructure/Services: Postgres/Supabase, Kafka, Cassandra, gRPC
-Orchestration: Kubernetes (K8S), Helm, Docker/Podman
+Infrastructure/Services: Postgres/Supabase, Kafka, Cassandra, gRPC, Vercel, Cloudflare
+Orchestration: Kubernetes (K8s), Helm, Docker/Podman
+Web3: wagmi, viem, Solidity
 Hobbies: homelabbing, points & miles, quantified self, skydiving, skiing, touching grass
 ```
 
